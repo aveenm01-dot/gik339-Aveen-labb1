@@ -29,7 +29,7 @@ console.log(X);
 /*console.log(Z);*/
 
 
-/* Uppgift3 */
+/* Uppgift3: */ 
 
 
 
